@@ -21,27 +21,27 @@ On the **Company** page, an admin will select their company that they wish to ma
 
 ### Announcements Page
 On the **Announcements** page, an admin has the ability to view and create a new announcement where as the worker can only view the company announcement.
-<img  alt="Screen Shot 1" src="./frontend-final-sprint/assets/screen3.png">
-<img  alt="Screen Shot 1" src="./frontend-final-sprint/assets/screen4.png">
-<img  alt="Screen Shot 1" src="./frontend-final-sprint/assets/screen5.png">
+<img  alt="Screen Shot 1" src="./assets/screen3.png">
+<img  alt="Screen Shot 1" src="./assets/screen4.png">
+<img  alt="Screen Shot 1" src="./assets/screen5.png">
 <hr />
 
 ### Projects Page
 On the **Projects** page, an admin has the ability to view, create and edit a project for a specific team where as the worker can only view the the projects they are associated with.
-<img  alt="Screen Shot 1" src="./frontend-final-sprint/assets/screen6.png">
-<img  alt="Screen Shot 1" src="./frontend-final-sprint/assets/screen7.png">
+<img  alt="Screen Shot 1" src="./assets/screen6.png">
+<img  alt="Screen Shot 1" src="./assets/screen7.png">
 <hr />
 
 ### Teams Page
 On the **Teams** page, an admin has the ability to view and create new teams based of the employees associated with their company.
-<img  alt="Screen Shot 1" src="./frontend-final-sprint/assets/screen8.png">
-<img  alt="Screen Shot 1" src="./frontend-final-sprint/assets/screen9.png">
+<img  alt="Screen Shot 1" src="./assets/screen8.png">
+<img  alt="Screen Shot 1" src="./assets/screen9.png">
 <hr />
 
 ### User Registry Page
 On the **User Registry** page, an admin has the ability to view all current users of their company, they have the ability to create new users and deactivate current users.
-<img  alt="Screen Shot 1" src="./frontend-final-sprint/assets/screen10.png">
-<img  alt="Screen Shot 1" src="./frontend-final-sprint/assets/screen11.png">
+<img  alt="Screen Shot 1" src="./assets/screen10.png">
+<img  alt="Screen Shot 1" src="./assets/screen11.png">
 <hr />
 
 ### Technologies Used

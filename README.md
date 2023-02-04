@@ -11,12 +11,12 @@ For this assignment, we were tasked with developing a full-stack company managem
 
 ### Login Page
 On the **Login** page, an admin and or worker is able to login to the application, there is also error handling for incorrect information.
-<img  alt="Screen Shot 1" src="./frontend-final-sprint/assets/screen1.png">
+<img  alt="Screen Shot 1" src="./assets/screen1.png">
 <hr />
 
 ### Company Page
 On the **Company** page, an admin will select their company that they wish to manage in the application.
-<img  alt="Screen Shot 1" src="./frontend-final-sprint/assets/screen2.png">
+<img  alt="Screen Shot 1" src="./assets/screen2.png">
 <hr />
 
 ### Announcements Page
